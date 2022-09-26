@@ -1,2 +1,2 @@
-# alo_mundo
-Atividade 1 de programação em Java
+# Pedindo um número
+Atividade 2 de programação em Java
